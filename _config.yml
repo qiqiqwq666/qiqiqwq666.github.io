@@ -1,6 +1,6 @@
-title: QiQi's Blog
-description: "记录学习与生活的个人博客"
-author: qiqiqwq666
+title: 琪琪爱洗澡
+description: "我爱洗澡，但是我更喜欢上厕所"
+author: 琪琪
 email: ""
 baseurl: ""
 url: "https://qiqiqwq666.github.io"
@@ -10,7 +10,7 @@ theme: minima
 
 # Minima 主题皮肤：classic / solarized / solarized-dark / dark
 minima:
-  skin: dark
+  skin: classic
   social_links:
     - { platform: github, user_url: "https://github.com/qiqiqwq666" }
 
