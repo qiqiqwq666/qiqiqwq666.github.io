@@ -16,7 +16,7 @@ tags: [女友, 爱情, 生活]
 
 有些人的出现，会让你觉得——原来人可以这么美。
 
-![娟照片3](/assets/images/juan3.jpg)
+![娟照片3](/assets/images/juan3.png)
 
 ---
 
@@ -46,7 +46,7 @@ tags: [女友, 爱情, 生活]
 
 多奖励下我谢谢
 
-![娟照片4](/assets/images/juan4.jpg)
+![娟照片4](/assets/images/juan4.png)
 ---
 那以后能别再和我说
 > "关你屁事"
