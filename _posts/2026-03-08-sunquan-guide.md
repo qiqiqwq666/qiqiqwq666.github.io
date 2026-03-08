@@ -110,7 +110,6 @@ tags: [王者荣耀, 孙权, 坦克, 辅助]
 
 下面我教你怎么玩孙权
 
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=116125815805595&bvid=BV1k6f2BmEhS&cid=36259302584&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="450"></iframe>
 ---
 
 *配乐建议：《晴天》——周杰伦*
