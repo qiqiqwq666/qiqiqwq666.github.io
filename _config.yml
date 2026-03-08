@@ -1,0 +1,38 @@
+title: QiQi's Blog
+description: "记录学习与生活的个人博客"
+author: qiqiqwq666
+email: ""
+baseurl: ""
+url: "https://qiqiqwq666.github.io"
+
+# 主题（GitHub Pages 原生支持 minima）
+theme: minima
+
+# Minima 主题皮肤：classic / solarized / solarized-dark / dark
+minima:
+  skin: dark
+  social_links:
+    - { platform: github, user_url: "https://github.com/qiqiqwq666" }
+
+# 插件（GitHub Pages 白名单插件）
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# 文章永久链接格式
+permalink: /:year/:month/:day/:title/
+
+# 分页（每页显示文章数）
+paginate: 5
+
+# Markdown 解析器
+markdown: kramdown
+highlighter: rouge
+
+# 排除不需要发布的文件
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - .gitignore
